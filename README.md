@@ -38,10 +38,6 @@ Entity Class – Represents Student data
 
 ⚙️ How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/your-username/spring-boot-student-management-system.git
-
 Open project in your IDE (IntelliJ / Eclipse)
 
 Configure MySQL in application.properties:
